@@ -5,4 +5,4 @@ Python code to design gRNAs and CREEPY primers for SNP editing
 
 2_CREEPY_XW designs CREEPY primers given a list of gRNAs
 
-3_Donor_oligos design primers to generate donors that introce placeholder
+3_Donor_oligos design primers to generate donors that introduce placeholder
